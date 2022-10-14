@@ -1,0 +1,27 @@
+.alert {
+  display:none;
+}
+
+.msg-err {
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.hide{
+    display: none;
+}
+
+img{
+  width: 50%;
+}
+
+.productsContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card{
+  margin: 10px;
+}
